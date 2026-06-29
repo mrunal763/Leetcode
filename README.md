@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrunal763/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/mrunal763/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/mrunal763/Leetcode/tree/master/0796-rotate-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/mrunal763/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrunal763/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/mrunal763/Leetcode/tree/master/0205-isomorphic-strings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/mrunal763/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
 | ------- |

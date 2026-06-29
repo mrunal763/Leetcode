@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mrunal763/Leetcode/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -29,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrunal763/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mrunal763/Leetcode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

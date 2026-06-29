@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mrunal763/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mrunal763/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/mrunal763/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/mrunal763/Leetcode/tree/master/0283-move-zeroes) |
 ## Trie
@@ -53,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mrunal763/Leetcode/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mrunal763/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->

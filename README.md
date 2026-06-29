@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrunal763/Leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/mrunal763/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrunal763/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mrunal763/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 ## Trie

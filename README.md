@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mrunal763/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mrunal763/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/mrunal763/Leetcode/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/mrunal763/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

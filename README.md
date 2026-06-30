@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mrunal763/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/mrunal763/Leetcode/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/mrunal763/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mrunal763/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/mrunal763/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mrunal763/Leetcode/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/mrunal763/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/mrunal763/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/mrunal763/Leetcode/tree/master/0283-move-zeroes) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/mrunal763/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mrunal763/Leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |

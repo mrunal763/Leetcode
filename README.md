@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mrunal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/mrunal763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mrunal763/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/mrunal763/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mrunal763/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/mrunal763/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mrunal763/Leetcode/tree/master/0137-single-number-ii) |
@@ -113,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/mrunal763/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mrunal763/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->

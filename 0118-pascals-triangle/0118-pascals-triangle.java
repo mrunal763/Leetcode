@@ -2,19 +2,23 @@ class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> ans=new ArrayList<>();
         for(int i=1;i<=numRows;i++){
-            ans.add(pascalTriangle(i));
+            ans.add(generateRow(i));
         }
         return ans;
     }
-     private static List<Integer> pascalTriangle(int r) {
-        List<Integer> ans=new ArrayList<>();
-        ans.add(1); 
+     private List<Integer> generateRow(int row) {
+        long ans = 1;
+        List<Integer> ansRow = new ArrayList<>();
+        
        
-        for(int i = 1; i < r; i++) {
-            long val= (long)(ans.get(i-1) * (r - i)) / i;
-            ans.add((int)val);
+        ansRow.add(1); 
+
+        for (int col = 1; col < row; col++) {
+            ans = ans * (row - col);
+            ans = ans / col;
+            ansRow.add((int) ans);
         }
         
-        return ans; 
+        return ansRow; 
     }
 }

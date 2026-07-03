@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrunal763/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mrunal763/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mrunal763/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/mrunal763/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrunal763/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0766-toeplitz-matrix](https://github.com/mrunal763/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/mrunal763/Leetcode/tree/master/0867-transpose-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mrunal763/Leetcode/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/mrunal763/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mrunal763/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mrunal763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mrunal763/Leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/mrunal763/Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -143,4 +146,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mrunal763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/mrunal763/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mrunal763/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mrunal763/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mrunal763/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mrunal763/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/mrunal763/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

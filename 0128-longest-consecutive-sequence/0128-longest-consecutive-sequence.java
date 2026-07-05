@@ -3,6 +3,7 @@ class Solution {
         int n = nums.length;
 
         if (n == 0) return 0;
+        Arrays.sort(nums);
 
         int longest = 1;
         Set<Integer> st = new HashSet<>();

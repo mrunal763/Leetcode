@@ -1,17 +1,28 @@
 class Solution {
     public int[] xorQueries(int[] arr, int[][] queries) {
-        ArrayList<Integer> ans=new ArrayList<>();
-        for(int[] query:queries){
-            int a=query[0];
-            int b=query[1];
-            int res=0;
-            for(int i=a;i<=b;i++){
-                res=res^arr[i];
-            }
-            ans.add(res);
+        int n = arr.length;
+        int[] prefix = new int[n];
+        prefix[0] = arr[0];
+
+        // Step 1: Build prefix XOR
+        for (int i = 1; i < n; i++) {
+            prefix[i] = prefix[i - 1] ^ arr[i];
         }
 
-        int[] arr1 = ans.stream().mapToInt(Integer::intValue).toArray();
-        return arr1;
+        int[] result = new int[queries.length];
+
+        // Step 2: Answer queries
+        for (int i = 0; i < queries.length; i++) {
+            int L = queries[i][0];
+            int R = queries[i][1];
+
+            if (L == 0) {
+                result[i] = prefix[R];
+            } else {
+                result[i] = prefix[R] ^ prefix[L - 1];
+            }
+        }
+
+        return result;
     }
 }

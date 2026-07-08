@@ -17,7 +17,7 @@ class Solution {
         }
       
         for (Map.Entry<Integer, Integer> it : mpp.entrySet()) {
-            int ele = it.getKey(); // Key
+    
             int freq = it.getValue(); // Value
             
             if (freq > maxFreq) {

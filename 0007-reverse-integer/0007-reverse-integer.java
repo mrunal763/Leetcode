@@ -1,16 +1,18 @@
+import java.util.Scanner;
 class Solution {
     public int reverse(int x) {
-        return solution(x, 0);
+        int sum=0;
+        while(x!=0){
+        int last = x%10;
+         if (sum > Integer.MAX_VALUE / 10 || (sum == Integer.MAX_VALUE / 10 && last > 7))
+                return 0;
+
+            if (sum < Integer.MIN_VALUE / 10 || (sum == Integer.MIN_VALUE / 10 && last < -8))
+                return 0;
+        sum = sum*10 + last;
+        x=x/10;
     }
-
-    public int solution(int x, int rev) {
-        if (x == 0) return rev;
-        if (rev > Integer.MAX_VALUE / 10 || rev < Integer.MIN_VALUE / 10) return 0;
-
-        int rem = x % 10;
-        x = x / 10;
-        rev = rev * 10 + rem;
-
-        return solution(x, rev);
-    }
+    return sum;
+}
+    
 }

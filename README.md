@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mrunal763/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mrunal763/Leetcode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mrunal763/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mrunal763/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/mrunal763/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/mrunal763/Leetcode/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/mrunal763/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mrunal763/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mrunal763/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mrunal763/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |

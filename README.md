@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mrunal763/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/mrunal763/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrunal763/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mrunal763/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/mrunal763/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/mrunal763/Leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2523-closest-prime-numbers-in-range](https://github.com/mrunal763/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/mrunal763/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |

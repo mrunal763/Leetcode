@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2523-closest-prime-numbers-in-range](https://github.com/mrunal763/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrunal763/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mrunal763/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal763/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/mrunal763/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrunal763/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrunal763/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal763/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/mrunal763/Leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2523-closest-prime-numbers-in-range](https://github.com/mrunal763/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mrunal763/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal763/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/mrunal763/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mrunal763/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mrunal763/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal763/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mrunal763/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mrunal763/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/mrunal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal763/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mrunal763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/mrunal763/Leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mrunal763/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal763/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |

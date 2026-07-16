@@ -39,13 +39,13 @@ class Solution {
         ListNode second = newHead;
         while (second != null) {
             if (first.val != second.val) {
-                reverseLinkedList(newHead);
+              
                 return false;
             }
             first = first.next;
             second = second.next;
         }
-        reverseLinkedList(newHead);
+       
         return true;
     }
 }

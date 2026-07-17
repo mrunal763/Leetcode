@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mrunal763/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2523-closest-prime-numbers-in-range](https://github.com/mrunal763/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrunal763/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mrunal763/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mrunal763/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal763/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/mrunal763/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrunal763/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrunal763/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mrunal763/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/mrunal763/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/mrunal763/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrunal763/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mrunal763/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal763/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/mrunal763/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/mrunal763/Leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2523-closest-prime-numbers-in-range](https://github.com/mrunal763/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mrunal763/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mrunal763/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mrunal763/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mrunal763/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mrunal763/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/mrunal763/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mrunal763/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mrunal763/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/mrunal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mrunal763/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mrunal763/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -295,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mrunal763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mrunal763/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/mrunal763/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mrunal763/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -303,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3312-sorted-gcd-pair-queries](https://github.com/mrunal763/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
 | ------- |

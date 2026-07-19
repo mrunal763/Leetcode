@@ -1,49 +1,30 @@
 class Solution {
-    private void reverseString(StringBuilder s, int start, int end) {
-        while (start < end) {
-            char temp = s.charAt(start);
-            s.setCharAt(start, s.charAt(end));
-            s.setCharAt(end, temp);
-            start++;
-            end--;
-        }
-    }
+    public String reverseWords(String s) {  
+        char[] arr = s.toCharArray();
+        StringBuilder result = new StringBuilder();
+        int end = arr.length-1;
 
-    public String reverseWords(String s) {
-        int n = s.length();
-
-        StringBuilder sb = new StringBuilder(s);
-        reverseString(sb, 0, n - 1);
-
-        int i = 0, j = 0, start = 0, end = 0;
-
-        while (j < n) {
-            while (j < n && sb.charAt(j) == ' ') {
-                j++;
+        while(end >=0)
+        {
+            while(end >= 0 && arr[end] == ' ')
+            {
+                end--;
+            }
+            if(end < 0) break;
+            
+            int start = end ;
+            while (start >=0 && arr[start] != ' '){
+                start--;
             }
 
-            if (j == n) {
-                break;
+            if(result.length() > 0 ){
+                result.append(' ');
             }
 
-            start = i;
-
-            while (j < n && sb.charAt(j) != ' ') {
-                sb.setCharAt(i++, sb.charAt(j++));
-            }
-
-            end = i - 1;
-            reverseString(sb, start, end);
-
-            while (j < n && sb.charAt(j) == ' ') {
-                j++;
-            }
-
-            if (j < n) {
-                sb.setCharAt(i++, ' ');
-            }
+            result.append(arr,start+1,end-start);
+            end = start;
         }
 
-        return sb.substring(0, i);
+        return result.toString();
     }
 }

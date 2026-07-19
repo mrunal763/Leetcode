@@ -1,14 +1,12 @@
 class Solution {
     public int findComplement(int num) {
-        String str = Integer.toBinaryString(num);
-        String res = "";
-        for (int i = 0; i < str.length(); i++) {
-            if (str.charAt(i) == '0') {
-                res += '1';
-            } else {
-                res += '0';
-            }
+        int bits = 0;
+        int temp = num;
+        while(temp>0){
+            bits++;
+            temp = temp>>1;
         }
-        return Integer.parseInt(res, 2);
+        int mask = (1 << bits) - 1;
+        return num ^ mask;
     }
 }

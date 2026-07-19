@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mrunal763/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/mrunal763/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/mrunal763/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/mrunal763/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mrunal763/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrunal763/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/mrunal763/Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/mrunal763/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mrunal763/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/mrunal763/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/mrunal763/Leetcode/tree/master/0476-number-complement) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mrunal763/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/mrunal763/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mrunal763/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/mrunal763/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/mrunal763/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mrunal763/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |

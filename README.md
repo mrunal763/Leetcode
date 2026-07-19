@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mrunal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/mrunal763/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/mrunal763/Leetcode/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrunal763/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mrunal763/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/mrunal763/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrunal763/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -332,10 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mrunal763/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/mrunal763/Leetcode/tree/master/0456-132-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrunal763/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/mrunal763/Leetcode/tree/master/0456-132-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrunal763/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

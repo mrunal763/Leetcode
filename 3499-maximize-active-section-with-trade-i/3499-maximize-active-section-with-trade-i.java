@@ -1,42 +1,23 @@
 class Solution {
     public int maxActiveSectionsAfterTrade(String s) {
-        char[] arr = s.toCharArray();
-        int n = arr.length;
-
-        int count1 = 0;
-
-        int block1 = 0;
-        int block2 = 0;
-        int maxx = 0;
-
-        int i = 0;
-        while(i<n){
-            char ch = arr[i];
-
-            if(ch=='0') {
-                block1++;
-                i++;
+        int oneCount = 0; 
+        int maxMergedzeros = 0; 
+        int currZeroCount = 0; 
+        int lastZeroCount = 0; 
+        for(char c : s.toCharArray()){
+            if(c == '0') currZeroCount++; 
+            else {
+             
+                if(currZeroCount != 0) lastZeroCount = currZeroCount;
+                currZeroCount = 0; 
+                oneCount++;
             }
-
-            else{
-                while(i<n && arr[i]=='1'){
-                    i++;
-                    count1++;
-                }
-                
-                while(i<n && arr[i]=='0'){
-                    i++;
-                    block2++;
-                }
-
-                if(block1!=0 && block2!=0) maxx = Math.max(maxx, block1+block2);
-                block1 = block2;
-                block2 = 0;
-            }
-
+           
+            maxMergedzeros = Math.max(maxMergedzeros, currZeroCount + lastZeroCount);
         }
-
-        return count1 + maxx;
-
+        
+        if(maxMergedzeros == currZeroCount || maxMergedzeros == lastZeroCount) return oneCount;
+        
+        return oneCount + maxMergedzeros;
     }
 }

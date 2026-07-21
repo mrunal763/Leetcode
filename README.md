@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/mrunal763/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mrunal763/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mrunal763/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2427-number-of-common-factors](https://github.com/mrunal763/Leetcode/tree/master/2427-number-of-common-factors) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mrunal763/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |

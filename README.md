@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mrunal763/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mrunal763/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrunal763/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrunal763/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mrunal763/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mrunal763/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/mrunal763/Leetcode/tree/master/0476-number-complement) |
 | [1310-xor-queries-of-a-subarray](https://github.com/mrunal763/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrunal763/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mrunal763/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/mrunal763/Leetcode/tree/master/2351-first-letter-to-appear-twice) |

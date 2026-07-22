@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrunal763/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mrunal763/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mrunal763/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## String Matching
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mrunal763/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/mrunal763/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mrunal763/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/mrunal763/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/mrunal763/Leetcode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Binary Search
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/mrunal763/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/mrunal763/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/mrunal763/Leetcode/tree/master/0509-fibonacci-number) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mrunal763/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Indexed Tree
 |  |
 | ------- |

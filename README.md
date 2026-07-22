@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/mrunal763/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/mrunal763/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/mrunal763/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/mrunal763/Leetcode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Binary Search
 |  |
 | ------- |

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mrunal763/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mrunal763/Leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mrunal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/mrunal763/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/mrunal763/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/mrunal763/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/mrunal763/Leetcode/tree/master/0796-rotate-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrunal763/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/mrunal763/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/mrunal763/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/mrunal763/Leetcode/tree/master/0796-rotate-string) |
 ## Hash Table

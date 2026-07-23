@@ -1,6 +1,6 @@
 class Solution {
-    private int[] computeLPS(String s) {
-        int n = s.length(); 
+    public String longestPrefix(String s) {
+         int n = s.length(); 
         int[] LPS = new int[n];
 
         int i = 1, j = 0;
@@ -23,13 +23,6 @@ class Solution {
                 i += 1;
             }
         }
-
-        return LPS;
-    }
-
-   
-    public String longestPrefix(String s) {
-        int[] LPS = computeLPS(s);
 
         return s.substring(0, LPS[s.length() - 1]);
     }

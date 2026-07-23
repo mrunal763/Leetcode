@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/mrunal763/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/mrunal763/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/mrunal763/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/mrunal763/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/mrunal763/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mrunal763/Leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/mrunal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrunal763/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/mrunal763/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/mrunal763/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/mrunal763/Leetcode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/mrunal763/Leetcode/tree/master/0796-rotate-string) |
@@ -436,4 +438,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1114-print-in-order](https://github.com/mrunal763/Leetcode/tree/master/1114-print-in-order) |
 | [1226-the-dining-philosophers](https://github.com/mrunal763/Leetcode/tree/master/1226-the-dining-philosophers) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mrunal763/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/mrunal763/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

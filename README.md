@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mrunal763/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mrunal763/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/mrunal763/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/mrunal763/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mrunal763/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/mrunal763/Leetcode/tree/master/0260-single-number-iii) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mrunal763/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/mrunal763/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mrunal763/Leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/mrunal763/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |

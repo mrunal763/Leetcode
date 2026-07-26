@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mrunal763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mrunal763/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mrunal763/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mrunal763/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mrunal763/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mrunal763/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mrunal763/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mrunal763/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/mrunal763/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mrunal763/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/mrunal763/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/mrunal763/Leetcode/tree/master/0190-reverse-bits) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mrunal763/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/mrunal763/Leetcode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/mrunal763/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |

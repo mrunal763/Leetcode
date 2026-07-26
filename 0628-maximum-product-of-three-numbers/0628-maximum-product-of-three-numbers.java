@@ -1,26 +1,35 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-        int first_max = Integer.MIN_VALUE, second_max = Integer.MIN_VALUE, third_max = Integer.MIN_VALUE;
-        int min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] >= first_max) {
-                third_max = second_max;
-                second_max = first_max;
-                first_max = nums[i];
-            } else if (nums[i] > second_max) {
-                third_max = second_max;
-                second_max = nums[i];
+        int smallest1 = Integer.MAX_VALUE, smallest2 = Integer.MAX_VALUE;
+        int largest1 = Integer.MIN_VALUE, largest2 = Integer.MIN_VALUE, largest3 = Integer.MIN_VALUE;
 
-            } else if (nums[i] > third_max) {
-                third_max = nums[i];
+        for (int num : nums) {
+            if (num < smallest2) {
+                if (num < smallest1) {
+                    smallest2 = smallest1;
+                    smallest1 = num;
+                } else {
+                    smallest2 = num;
+                }
             }
-            if (nums[i] <= min1) {
-                min2 = min1;
-                min1 = nums[i];
-            } else if (nums[i] <= min2)
-                min2 = nums[i];
+
+            if (num > largest3) {
+                if (num > largest1) {
+                    largest3 = largest2;
+                    largest2 = largest1;
+                    largest1 = num;
+                } else if (num > largest2) {
+                    largest3 = largest2;
+                    largest2 = num;
+                } else {
+                    largest3 = num;
+                }
+            }
         }
-        return Math.max(first_max * second_max * third_max,
-                min1 * min2 * first_max);
+
+        int withSmallest = smallest1 * smallest2 * largest1;
+        int largestOnly = largest1 * largest2 * largest3;
+
+        return withSmallest > largestOnly ? withSmallest : largestOnly;
     }
 }

@@ -10,13 +10,13 @@ class Solution {
             return;
         }
 
+        func(v, i - 1, sum, v2, ans);
+
         v2.add(v.get(i));
 
         func(v, i, sum - v.get(i), v2, ans);
 
         v2.remove(v2.size() - 1);
-
-        func(v, i - 1, sum, v2, ans);
     }
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
@@ -31,4 +31,5 @@ class Solution {
 
         return ans;
     }
+
 }

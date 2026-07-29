@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/mrunal763/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/mrunal763/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/mrunal763/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrunal763/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrunal763/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/mrunal763/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mrunal763/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/mrunal763/Leetcode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/mrunal763/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0860-lemonade-change](https://github.com/mrunal763/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/mrunal763/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/mrunal763/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/mrunal763/Leetcode/tree/master/0896-monotonic-array) |

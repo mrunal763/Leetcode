@@ -1,14 +1,17 @@
 class Solution {
     public int minimumPushes(String word) {
-        int[] freq = new int[26];
-        for (char c : word.toCharArray()) 
-            freq[c - 'a']++;
-        
-        Arrays.sort(freq);
-        int ans = 0;
-        for (int i = 25; i >= 0 && freq[i] > 0; i--) 
-            ans += freq[i] * ((25 - i) / 8 + 1);
-        
-        return ans;
+        // so whaever appears max no of times for first 8 assign them 1 -> next 8 assign them 2 -> next left assign them 3. 
+
+        Integer[] f = new Integer[26]; 
+        Arrays.fill(f, 0); 
+        for(int i = 0; i < word.length(); i++) f[word.charAt(i) - 'a']++; 
+        Arrays.sort(f, Collections.reverseOrder()); 
+        int ans = 0; 
+        for(int i = 0; i < 26; i++) {
+            if(f[i] != 0) {
+                ans += (i / 8 + 1) * f[i]; 
+            }
+        }
+        return ans; 
     }
 }

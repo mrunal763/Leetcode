@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/mrunal763/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mrunal763/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrunal763/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/mrunal763/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/mrunal763/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mrunal763/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mrunal763/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/mrunal763/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/mrunal763/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/mrunal763/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/mrunal763/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mrunal763/Leetcode/tree/master/0896-monotonic-array) |
 | [1089-duplicate-zeros](https://github.com/mrunal763/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/mrunal763/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/mrunal763/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/mrunal763/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/mrunal763/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/mrunal763/Leetcode/tree/master/0877-stone-game) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mrunal763/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Indexed Tree
 |  |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mrunal763/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/mrunal763/Leetcode/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |

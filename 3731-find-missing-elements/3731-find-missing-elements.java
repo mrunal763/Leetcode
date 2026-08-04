@@ -12,7 +12,7 @@ class Solution {
             contains[ele] = true;
         }
 
-        for(int i = min; i <= max; i++){
+        for(int i = min+1; i < max; i++){
             if(!contains[i]){
                 res.add(i);
             }

@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mrunal763/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/mrunal763/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/mrunal763/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0907-sum-of-subarray-minimums](https://github.com/mrunal763/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/mrunal763/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mrunal763/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/mrunal763/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mrunal763/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/mrunal763/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/mrunal763/Leetcode/tree/master/0877-stone-game) |
+| [0907-sum-of-subarray-minimums](https://github.com/mrunal763/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mrunal763/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Indexed Tree
 |  |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mrunal763/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mrunal763/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/mrunal763/Leetcode/tree/master/0735-asteroid-collision) |
+| [0907-sum-of-subarray-minimums](https://github.com/mrunal763/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrunal763/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrunal763/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/mrunal763/Leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/mrunal763/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mrunal763/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrunal763/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/mrunal763/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mrunal763/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Heap (Priority Queue)
 |  |

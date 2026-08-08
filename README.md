@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/mrunal763/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/mrunal763/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mrunal763/Leetcode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/mrunal763/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/mrunal763/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mrunal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/mrunal763/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/mrunal763/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/mrunal763/Leetcode/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/mrunal763/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/mrunal763/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mrunal763/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mrunal763/Leetcode/tree/master/0455-assign-cookies) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mrunal763/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mrunal763/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mrunal763/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/mrunal763/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/mrunal763/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mrunal763/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrunal763/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/mrunal763/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/mrunal763/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mrunal763/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mrunal763/Leetcode/tree/master/0503-next-greater-element-ii) |

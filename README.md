@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mrunal763/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/mrunal763/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mrunal763/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/mrunal763/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/mrunal763/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mrunal763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mrunal763/Leetcode/tree/master/0054-spiral-matrix) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mrunal763/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mrunal763/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mrunal763/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mrunal763/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mrunal763/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mrunal763/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mrunal763/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mrunal763/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mrunal763/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mrunal763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mrunal763/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/mrunal763/Leetcode/tree/master/0118-pascals-triangle) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mrunal763/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mrunal763/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/mrunal763/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mrunal763/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mrunal763/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mrunal763/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/mrunal763/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/mrunal763/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/mrunal763/Leetcode/tree/master/0496-next-greater-element-i) |

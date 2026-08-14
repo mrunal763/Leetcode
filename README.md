@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mrunal763/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/mrunal763/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/mrunal763/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/mrunal763/Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/mrunal763/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/mrunal763/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mrunal763/Leetcode/tree/master/0509-fibonacci-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mrunal763/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mrunal763/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/mrunal763/Leetcode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/mrunal763/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/mrunal763/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mrunal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/mrunal763/Leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mrunal763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mrunal763/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/mrunal763/Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/mrunal763/Leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/mrunal763/Leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mrunal763/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |

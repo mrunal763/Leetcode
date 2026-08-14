@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/mrunal763/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/mrunal763/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mrunal763/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/mrunal763/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/mrunal763/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/mrunal763/Leetcode/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/mrunal763/Leetcode/tree/master/0507-perfect-number) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mrunal763/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/mrunal763/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/mrunal763/Leetcode/tree/master/0877-stone-game) |
 ## Sliding Window
@@ -745,4 +747,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mrunal763/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/mrunal763/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mrunal763/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mrunal763/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mrunal763/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mrunal763/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

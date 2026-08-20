@@ -22,6 +22,5 @@ class Solution {
             i++;
         }
         return nums;
-
     }
 }

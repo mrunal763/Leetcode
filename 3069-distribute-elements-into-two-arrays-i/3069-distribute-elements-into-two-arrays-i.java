@@ -12,22 +12,16 @@ class Solution {
                 arr1.add(nums[i]);
             }
         }
-        int i=0;
-        for(int k=0;k<arr1.size();k++) {
-            nums[i]=arr1.get(k);
+        int i = 0;
+        for (int k = 0; k < arr1.size(); k++) {
+            nums[i] = arr1.get(k);
             i++;
         }
-        for(int k=0;k<arr2.size();k++){
-            nums[i]=arr2.get(k);
+        for (int k = 0; k < arr2.size(); k++) {
+            nums[i] = arr2.get(k);
             i++;
         }
         return nums;
-        // arr1.addAll(arr2);
-        // for (int i = 0; i < arr1.size(); i++) {
 
-        //     nums[i] = arr1.get(i);
-
-        // }
-        // return nums;
     }
 }

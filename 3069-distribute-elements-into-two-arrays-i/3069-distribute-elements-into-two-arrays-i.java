@@ -15,13 +15,11 @@ class Solution {
 
         arr1.addAll(arr2);
 
-        int[] result = new int[arr1.size()];
-
         for (int i = 0; i < arr1.size(); i++) {
 
-            result[i] = arr1.get(i);
+            nums[i] = arr1.get(i);
 
         }
-        return result;
+        return nums;
     }
 }
